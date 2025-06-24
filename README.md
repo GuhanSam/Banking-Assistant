@@ -32,3 +32,8 @@ The Banking Assistant Chatbot can:
 - HTML, CSS, JavaScript
 - Render (for deployment)
 
+## 📸 Demo Screenshot
+
+![Chatbot Screenshot](Screenshot%202025-06-24%20133303.png)
+
+
